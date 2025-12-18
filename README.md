@@ -1,3 +1,3 @@
 # student-web-
 This is my first Git Repository
-Auther - Priya Rathore
+Author - Priya Rathore
